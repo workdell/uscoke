@@ -8,7 +8,7 @@ const NEZHA_PORT = process.env.NEZHA_PORT || '';                     //
 const NEZHA_KEY = process.env.NEZHA_KEY || '';   //
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';     //
 const ARGO_AUTH = process.env.ARGO_AUTH || '';
-const CFIP = process.env.CFIP || 'www.visa.com.tw';
+const CFIP = process.env.CFIP || '188.114.96.208';
 const NAME = process.env.NAME || 'Choreo-US';
 
 // root route
